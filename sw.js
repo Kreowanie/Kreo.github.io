@@ -1,5 +1,5 @@
 var cacheName = ' piac-pwa';
- var filesToCache = [ '/', '/index.html', '/st yle.css', '/js/main.js' ]
+ var filesToCache = [ '/', '/index.html', '/style.css', '/js/main.js' ]
 
  
 self.addEventListener('install', function(e) {
